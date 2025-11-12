@@ -601,6 +601,11 @@ a {
     margin-top: 18px;
 }
 
+.footer .item a:hover {
+    text-decoration: underline;
+    color: #000339;
+}
+
 .footer .item a,
 .footer .desc {
     font-weight: 400;
